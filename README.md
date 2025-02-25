@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DeepigaSR
 - 👀 I’m interested in Software Development. 
-- 🌱 I’m currently learning for AWS Cloud Practitioner , Binary Trees concepts. 
-- 💞️ I’m looking to collaborate on problem solving and innovation for Social good in the Tech. 
+- 💞️ I'm seeking collaboration on innovative problem-solving in technology for social good. 
 - 📫 How to reach me ?
 - email: deepigaravichandran@gmail.com ;
 - LinkedIn: https://www.linkedin.com/in/deepigaravichandran/
